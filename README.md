@@ -6,7 +6,7 @@
 [![yfinance](https://img.shields.io/badge/yfinance-0.2%2B-green.svg)](https://pypi.org/project/yfinance/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> **Built as part of the RMIT Master of Analytics program** — demonstrating applied financial data science, predictive modelling, and business decision support.
+
 
 ---
 
