@@ -10,14 +10,6 @@
 
 ---
 
-## 🚀 Live Demo
-
-> Deploy your own instance using the instructions below.  
-> **[Click here to launch the Streamlit app →](https://your-app-name.streamlit.app)**  
-> *(Replace with your deployed Streamlit Community Cloud URL)*
-
----
-
 ## 📌 Project Overview
 
 The **Stock Portfolio Optimiser + Price Predictor** is a professional-grade, end-to-end financial analytics tool designed for individual investors, analysts, and portfolio managers. It combines real-time market data retrieval, statistical risk modelling, and machine-learning-based price forecasting into a single interactive dashboard.
